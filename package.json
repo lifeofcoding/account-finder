@@ -1,0 +1,24 @@
+{
+  "name": "account-finder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "apify": "^0.19.1",
+    "cheerio": "^1.0.0-rc.3",
+    "puppeteer": "^2.1.1",
+    "puppeteer-core": "^2.1.1",
+    "puppeteer-extra": "^3.1.9",
+    "puppeteer-extra-plugin-stealth": "^2.4.9",
+    "puppeteer-page-proxy": "^1.2.2",
+    "random-useragent": "^0.3.1",
+    "shelljs": "^0.8.3",
+    "yargs": "^15.1.0"
+  }
+}
