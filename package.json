@@ -18,7 +18,7 @@
     "puppeteer-extra-plugin-stealth": "^2.4.9",
     "puppeteer-page-proxy": "^1.2.2",
     "random-useragent": "^0.3.1",
-    "shelljs": "^0.8.3",
+    "shelljs": "^0.8.5",
     "yargs": "^15.1.0"
   }
 }
